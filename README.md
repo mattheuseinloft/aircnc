@@ -11,22 +11,39 @@ A aplicação consiste em 3 camadas:
 
 A versão web é utilizada pela empresa que vai disponibilizar um "Spot". Consiste em 3 telas:
 
-# Login
+## Login
 Print da tela "Login" aqui
 
-# Dashboard
+## Dashboard
 Print da tela "Dashboard" aqui
 
-# New
+## New
 Print da tela "New" aqui
 
 A versão mobile é utilizada pelo desenvolvedor interessado comparecer em algum "Spot". Suas telas são:
 
-# Login
+## Login
 Print da tela "Login" aqui
 
-# List
+## List
 Print da tela "List" aqui
 
-# Book
+## Book
 Print da tela "Book" aqui
+
+# Instruções de execução
+1) Clonar o repositório (git clone URL)
+2) cd aircnc
+3) cd backend
+4) yarn install
+5) yarn dev
+6) Abrir nova aba do terminal
+7) cd ..
+8) cd frontend
+9) yarn install
+10) yarn start
+11) Abrir nova aba do terminal
+12) cd ..
+13) cd mobile
+14) yarn install
+15) yarn start
