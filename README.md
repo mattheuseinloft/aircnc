@@ -29,4 +29,4 @@ Print da tela "Login" aqui
 Print da tela "List" aqui
 
 # Book
-Print da tela "New" aqui
+Print da tela "Book" aqui
