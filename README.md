@@ -23,14 +23,15 @@ A versão web é utilizada pela empresa que vai disponibilizar um "Spot". Consis
 A versão mobile é utilizada pelo desenvolvedor interessado comparecer em algum "Spot". Suas telas são:
 
 ## Login
-Print da tela "Login" aqui
+<img src="https://user-images.githubusercontent.com/11603445/66360344-28582980-e951-11e9-95a0-d5a63504aeae.jpeg" width="350" height="600">
 
 ## List
-Print da tela "List" aqui
+<img src="https://user-images.githubusercontent.com/11603445/66360349-2c844700-e951-11e9-815f-c0dd5bed93af.jpeg" width="350" height="600">
 
 ## Book
-Print da tela "Book" aqui
+<img src="https://user-images.githubusercontent.com/11603445/66360355-3148fb00-e951-11e9-9edb-5a5a48a63269.jpeg" width="350" height="600">
 
+<!---
 # Instruções de execução
 1) Clonar o repositório (git clone URL)
 2) cd aircnc
@@ -47,3 +48,4 @@ Print da tela "Book" aqui
 13) cd mobile
 14) yarn install
 15) yarn start
+-->
