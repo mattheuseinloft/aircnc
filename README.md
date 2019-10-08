@@ -15,10 +15,10 @@ A versão web é utilizada pela empresa que vai disponibilizar um "Spot". Consis
 ![frontend-login](https://user-images.githubusercontent.com/11603445/66359998-b0d5ca80-e94f-11e9-92b3-1bb078264691.png)
 
 ## Dashboard
-Print da tela "Dashboard" aqui
+![frontend-dashboard](https://user-images.githubusercontent.com/11603445/66360044-f09cb200-e94f-11e9-8cc3-1ae17cdb4716.png)
 
 ## New
-Print da tela "New" aqui
+![frontend-new](https://user-images.githubusercontent.com/11603445/66360103-2a6db880-e950-11e9-8499-f241593e0478.png)
 
 A versão mobile é utilizada pelo desenvolvedor interessado comparecer em algum "Spot". Suas telas são:
 
