@@ -6,7 +6,7 @@ O projeto é inspirado no Airbnb, mas com um ramo de negócio diferente. Sua ide
 
 A aplicação consiste em 3 camadas:
 - Back-End utilizando Node.js
-- Front-End utilizando React
+- Front-End utilizando ReactJS
 - Mobile utilizando React Native e Expo
 
 A versão web é utilizada pela empresa que vai disponibilizar um "Spot". Consiste em 3 telas:
