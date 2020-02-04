@@ -20,7 +20,7 @@ A versão web é utilizada pela empresa que vai disponibilizar um "Spot". Consis
 ### New
 ![frontend-new](https://user-images.githubusercontent.com/11603445/66360103-2a6db880-e950-11e9-8499-f241593e0478.png)
 
-A versão mobile é utilizada pelo desenvolvedor interessado comparecer em algum "Spot". Suas telas são:
+A versão mobile é utilizada pelo desenvolvedor interessado em comparecer em um "Spot". Suas telas são:
 
 ### Login
 <img src="https://user-images.githubusercontent.com/11603445/66360344-28582980-e951-11e9-95a0-d5a63504aeae.jpeg" width="350" height="600">
